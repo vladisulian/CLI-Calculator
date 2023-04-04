@@ -4,7 +4,7 @@ A simple CLI Calculator using 'Commander' package.
 
 # Inner documentation
 
-    'node index.js --help'
+    node index.js --help
 
 # How to use:
 
